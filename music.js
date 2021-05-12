@@ -12,6 +12,7 @@ client.on("ready", () => {
                 play(connection)
             })
         }
+        
         play(connection)
     })
 })
